@@ -1,4 +1,4 @@
-1 hamilton
+cd 1 hamilton
 2 heathers
 3 wicked
 4 wicked2
@@ -7,4 +7,17 @@
 7 meninas malvadas
 8 epic
 9 musical
-10 legal
+10 juno
+11 men behind the sun
+12 nanay
+13 Viktor Frankeinstein
+14 Henriqe
+15 Batman o cavalheiro das trevas
+16 2
+17 i love devops
+18 python
+19 sasiska
+20 bimbimbambam
+
+
+
